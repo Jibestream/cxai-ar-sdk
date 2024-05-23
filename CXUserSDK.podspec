@@ -100,10 +100,10 @@ Pod::Spec.new do |spec|
     'DataSDK.xcframework',
     'CXARLocalizationSDK.xcframework',
     'CXJibestreamKit.xcframework',
-    'JMapControllerKit.xcframework',
-    'JMapCoreKit.xcframework',
-    'JMapNavigationKit.xcframework',
-    'JMapRenderingKit.xcframework'
+    'Jibestream/JMapControllerKit.xcframework',
+    'Jibestream/JMapCoreKit.xcframework',
+    'Jibestream/JMapNavigationKit.xcframework',
+    'Jibestream/JMapRenderingKit.xcframework'
   ]
   
   # Dependencies on other pods
