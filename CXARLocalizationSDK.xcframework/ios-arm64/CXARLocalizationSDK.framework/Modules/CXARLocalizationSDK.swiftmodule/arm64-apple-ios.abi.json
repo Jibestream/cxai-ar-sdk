@@ -2820,77 +2820,77 @@
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 4226,
+      "offset": 4402,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 4394,
+      "offset": 4583,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 4896,
+      "offset": 5119,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 4950,
+      "offset": 5173,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 5002,
+      "offset": 5225,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 5334,
+      "offset": 5557,
       "length": 7,
       "value": "\"Alert\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 5357,
+      "offset": 5580,
       "length": 21,
       "value": "\"Reached Destination\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 5463,
+      "offset": 5686,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 5866,
+      "offset": 6089,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 6074,
+      "offset": 6297,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController+Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 6188,
+      "offset": 6411,
       "length": 5,
       "value": "false"
     },
