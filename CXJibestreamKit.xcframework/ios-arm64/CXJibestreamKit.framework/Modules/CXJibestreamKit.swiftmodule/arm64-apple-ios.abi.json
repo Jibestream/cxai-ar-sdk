@@ -1423,98 +1423,91 @@
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1415,
+      "offset": 1420,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1454,
+      "offset": 1459,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1494,
+      "offset": 1499,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "Array",
-      "offset": 1824,
+      "offset": 1829,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "Array",
-      "offset": 1984,
+      "offset": 1989,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "Array",
-      "offset": 2093,
+      "offset": 2098,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "Array",
-      "offset": 2353,
+      "offset": 2358,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3092,
+      "offset": 3097,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3313,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "StringLiteral",
-      "offset": 3852,
+      "offset": 3744,
       "length": 21,
       "value": "\"Failed to init jMap\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "StringLiteral",
-      "offset": 3996,
+      "offset": 3888,
       "length": 7,
       "value": "\"Units\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "StringLiteral",
-      "offset": 4261,
+      "offset": 4153,
       "length": 16,
       "value": "\"NavInstruction\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "Array",
-      "offset": 5388,
+      "offset": 5280,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
       "kind": "StringLiteral",
-      "offset": 5887,
+      "offset": 5819,
       "length": 24,
       "value": "\"JMap cleanup completed\""
     },
@@ -1661,581 +1654,581 @@
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 906,
+      "offset": 907,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 950,
+      "offset": 951,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 1007,
+      "offset": 1008,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 1360,
+      "offset": 1361,
       "length": 18,
       "value": "\"layersOfInterest\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 1380,
+      "offset": 1381,
       "length": 9,
       "value": "[\"Units\"]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 1442,
+      "offset": 1443,
       "length": 13,
       "value": "\"visualRange\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1457,
+      "offset": 1458,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 1512,
+      "offset": 1513,
       "length": 17,
       "value": "\"visualLimitLeft\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1531,
+      "offset": 1532,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 1586,
+      "offset": 1587,
       "length": 18,
       "value": "\"visualLimitRight\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1606,
+      "offset": 1607,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1644,
+      "offset": 1646,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 1808,
+      "offset": 1810,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2295,
+      "offset": 2297,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
-      "kind": "Array",
-      "offset": 2480,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2503,
+      "offset": 2445,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 3064,
+      "offset": 3006,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 3799,
+      "offset": 3651,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 3748,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3820,
+      "offset": 3769,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 3924,
+      "offset": 3873,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 3956,
+      "offset": 3905,
       "length": 22,
       "value": "\"Head toward \""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3975,
+      "offset": 3924,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 3977,
+      "offset": 3926,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4027,
+      "offset": 3976,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4116,
+      "offset": 4065,
       "length": 6,
       "value": "\"left\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4151,
+      "offset": 4100,
       "length": 8,
       "value": "\"⬅️\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4181,
+      "offset": 4130,
       "length": 7,
       "value": "\"right\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4217,
+      "offset": 4166,
       "length": 8,
       "value": "\"➡️\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4247,
+      "offset": 4196,
       "length": 4,
       "value": "\"up\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4280,
+      "offset": 4229,
       "length": 6,
       "value": "\"🔼\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4308,
+      "offset": 4257,
       "length": 6,
       "value": "\"down\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4343,
+      "offset": 4292,
       "length": 6,
       "value": "\"🔽\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4371,
+      "offset": 4320,
       "length": 8,
       "value": "\"arrive\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4408,
+      "offset": 4357,
       "length": 6,
       "value": "\"🏁\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4436,
+      "offset": 4385,
       "length": 7,
       "value": "\"uturn\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4472,
+      "offset": 4421,
       "length": 8,
       "value": "\"↪️\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4533,
+      "offset": 4482,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4570,
+      "offset": 4519,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4647,
+      "offset": 4596,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4700,
+      "offset": 4649,
       "length": 4,
       "value": "\"up\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4716,
+      "offset": 4665,
       "length": 6,
       "value": "\"down\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4781,
+      "offset": 4730,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 4841,
+      "offset": 4790,
       "length": 7,
       "value": "\" and \""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5282,
+      "offset": 5231,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5530,
+      "offset": 5522,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6053,
+      "offset": 6045,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 6502,
+      "offset": 6544,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6512,
+      "offset": 6554,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 6514,
+      "offset": 6556,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6608,
+      "offset": 6650,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6629,
+      "offset": 6671,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6886,
+      "offset": 6928,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6923,
+      "offset": 6965,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6962,
+      "offset": 7004,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7003,
+      "offset": 7045,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7096,
+      "offset": 7138,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7141,
+      "offset": 7183,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7211,
+      "offset": 7253,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Dictionary",
-      "offset": 7489,
+      "offset": 7531,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7881,
+      "offset": 7923,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7996,
+      "offset": 8038,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8037,
+      "offset": 8079,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8083,
+      "offset": 8125,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8089,
+      "offset": 8131,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8099,
+      "offset": 8141,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8111,
+      "offset": 8153,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8201,
+      "offset": 8243,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8207,
+      "offset": 8249,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8217,
+      "offset": 8259,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8229,
+      "offset": 8271,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "Array",
-      "offset": 9506,
+      "offset": 9548,
       "length": 6,
       "value": "[4, 1]"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9558,
+      "offset": 9600,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 9712,
+      "offset": 9754,
       "length": 11,
       "value": "\"strokeEnd\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9764,
+      "offset": 9806,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9799,
+      "offset": 9841,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9804,
+      "offset": 9846,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9908,
+      "offset": 9950,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9954,
+      "offset": 9996,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "StringLiteral",
-      "offset": 10021,
+      "offset": 10063,
       "length": 11,
       "value": "\"strokeEnd\""
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10417,
+      "offset": 10459,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10478,
+      "offset": 10520,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10549,
+      "offset": 10591,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10607,
+      "offset": 10649,
       "length": 1,
       "value": "0"
     }
