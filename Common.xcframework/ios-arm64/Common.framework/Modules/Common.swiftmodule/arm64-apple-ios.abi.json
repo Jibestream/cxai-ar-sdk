@@ -7780,7 +7780,9 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
+                "intro_iOS": "2.0",
                 "declAttributes": [
+                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -7907,7 +7909,9 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
+                "intro_iOS": "2.0",
                 "declAttributes": [
+                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -8034,7 +8038,9 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
+                "intro_iOS": "2.0",
                 "declAttributes": [
+                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -8161,7 +8167,9 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
+                "intro_iOS": "2.0",
                 "declAttributes": [
+                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -8560,35 +8568,385 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 310,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 315,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 320,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 960,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1033,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNNode+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1051,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "Array",
+      "offset": 228,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 248,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 252,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 277,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 546,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 550,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 575,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 579,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Models\/Matrix4x4.swift",
+      "kind": "IntegerLiteral",
+      "offset": 635,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 202,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 272,
+      "length": 3,
+      "value": "\"#\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 315,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 410,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 502,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 595,
+      "length": 8,
+      "value": "0xFF0000"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 608,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 614,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 659,
+      "length": 8,
+      "value": "0x00FF00"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 672,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 677,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 721,
+      "length": 8,
+      "value": "0x0000FF"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 733,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNVector3+Extensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 934,
+      "length": 4,
+      "value": "-1.0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNVector3+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1870,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNVector3+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1923,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNVector3+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1976,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNVector3+Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2309,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/SCNVector3+Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2339,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 548,
+      "length": 54,
+      "value": "\"Failed to initalise indoor map \""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 598,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 601,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 666,
+      "length": 43,
+      "value": "\"Failed to initialize AR. Please try again\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 760,
+      "length": 52,
+      "value": "\"The request timed out. Please check the IP Address\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 876,
+      "length": 40,
+      "value": "\"Please check your internet connection.\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 978,
+      "length": 86,
+      "value": "\"Your request could not be processed, please try again. \""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 1063,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 1137,
+      "length": 38,
+      "value": "\"Failed to localize. \""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 1171,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Errors\/CXError.swift",
+      "kind": "StringLiteral",
+      "offset": 1174,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/Helpers.swift",
+      "kind": "IntegerLiteral",
+      "offset": 238,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/Helpers.swift",
+      "kind": "IntegerLiteral",
+      "offset": 336,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/Helpers.swift",
+      "kind": "Array",
+      "offset": 704,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Extensions\/Helpers.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1341,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 204,
       "length": 9,
       "value": "\"#FFB000\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 9,
       "value": "\"#2e7cbd\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 350,
       "length": 9,
       "value": "\"#2e2e2e\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 420,
       "length": 9,
