@@ -1,0 +1,183 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Common
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import Common
+import Foundation
+import SceneKit
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct IndoorMapDestination : Common.IndoorMapObjectsBase {
+  public var x: Swift.Float
+  public var y: Swift.Float
+  public var z: Swift.Float
+  public var extensors: [Swift.String : Swift.String]?
+  public var svg: Swift.String?
+  public var id: Foundation.NSNumber
+  public var name: Swift.String?
+  public init(x: Swift.Float, y: Swift.Float, z: Swift.Float, id: Foundation.NSNumber, name: Swift.String?)
+}
+public protocol IndoorMapBase {
+  var id: Foundation.NSNumber { get set }
+  var name: Swift.String? { get set }
+}
+public struct IndoorMapFloor : Common.IndoorMapBase {
+  public var id: Foundation.NSNumber
+  public var name: Swift.String?
+  public var buildingId: Foundation.NSNumber?
+  public init(id: Foundation.NSNumber, name: Swift.String?, buildingId: Foundation.NSNumber?)
+}
+public protocol IndoorMappable {
+  var isMapInitialized: Swift.Bool { get }
+  var shouldFollowUser: Swift.Bool { get set }
+  var onDestinationSelected: ((Foundation.NSNumber) -> Swift.Void)? { get set }
+  var onNavigationInstructionUpdated: ((Common.NavigationInstruction) -> Swift.Void)? { get set }
+  var onMapPanned: (() -> Swift.Void)? { get set }
+  func initMap(indoorMapInitialised: @escaping ((Common.CXError?) -> Swift.Void))
+  func getFloors() -> [Common.IndoorMapFloor]
+  func getDestinations(relativeTo point: CoreFoundation.CGPoint) -> [Common.IndoorMapDestination]
+  func getAmenities(relativeTo point: CoreFoundation.CGPoint) -> [Common.IndoorMapAmenity]
+  func getIndoorMapView() -> UIKit.UIView
+  func getCurrentFloor() -> Common.IndoorMapFloor?
+  func updateUserPosition(position: SceneKit.SCNVector3, relativeTo relativePoint: CoreFoundation.CGPoint, userHeading: Foundation.NSNumber)
+  func getUserPosition() -> CoreFoundation.CGPoint?
+  func getAndDrawNavPath(to destinationId: Foundation.NSNumber, relativeTo relativePoint: CoreFoundation.CGPoint) -> [SceneKit.SCNVector3]
+  func stopNavigation()
+  func focusUserPosition()
+  func cleanup()
+}
+extension SceneKit.SCNNode {
+  @_Concurrency.MainActor(unsafe) public func rotateNodeHorizantally(degree: Swift.Float)
+  @_Concurrency.MainActor(unsafe) public func lookAt(_ point: SceneKit.SCNVector3)
+}
+public struct ARMapMetadata {
+  public var starting2DPoint: CoreFoundation.CGPoint
+  public var originRotationAngle: Swift.Float
+  public var posShiftX: Swift.Float
+  public var posShiftY: Swift.Float
+  public var posShiftZ: Swift.Float
+  public init(starting2DPoint: CoreFoundation.CGPoint, originRotationAngle: Swift.Float, posShiftX: Swift.Float, posShiftY: Swift.Float, posShiftZ: Swift.Float)
+}
+public struct IndoorMapBuilding : Common.IndoorMapBase {
+  public var id: Foundation.NSNumber
+  public var name: Swift.String?
+  public var floors: [Common.IndoorMapFloor]
+}
+extension CoreFoundation.CGPoint {
+  public func distance(to point: CoreFoundation.CGPoint) -> CoreFoundation.CGFloat
+}
+public struct NavigationInstruction {
+  public let flag: Swift.String
+  public let title: Swift.String
+  public let content: Swift.String
+  public init(flag: Swift.String, title: Swift.String, content: Swift.String)
+}
+public struct Matrix4x4 : Swift.Codable {
+  public init(from simdMatrix: simd.simd_float4x4)
+  public init(matrix: [Swift.Double])
+  public func toSimd() -> simd.simd_float4x4
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ARAnchor {
+}
+public enum NavigationDirections {
+  case left
+  case right
+  case up
+  case down
+  case arrive
+  public static func == (a: Common.NavigationDirections, b: Common.NavigationDirections) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension UIKit.UIColor {
+  convenience public init?(hex: Swift.String, alpha: CoreFoundation.CGFloat = 1.0)
+}
+public func / (vector: SceneKit.SCNVector3, scalar: Swift.Float) -> SceneKit.SCNVector3
+public func * (left: SceneKit.SCNMatrix4, right: SceneKit.SCNMatrix4) -> SceneKit.SCNMatrix4
+public func + (left: SceneKit.SCNVector3, right: SceneKit.SCNVector3) -> SceneKit.SCNVector3
+public func - (left: SceneKit.SCNVector3, right: SceneKit.SCNVector3) -> SceneKit.SCNVector3
+public func += (left: inout SceneKit.SCNVector3, right: SceneKit.SCNVector3)
+public func -= (left: inout SceneKit.SCNVector3, right: SceneKit.SCNVector3)
+public func * (vector: SceneKit.SCNVector3, multiplier: SceneKit.SCNFloat) -> SceneKit.SCNVector3
+extension SceneKit.SCNVector3 {
+  public func calculateDistance(to pointB: SceneKit.SCNVector3) -> Swift.Float
+  public func toCGPoint() -> CoreFoundation.CGPoint
+  public func equals(_ vectorB: SceneKit.SCNVector3) -> Swift.Bool
+}
+extension SceneKit.SCNTransaction {
+  public static func animate(duration: Foundation.TimeInterval, animations: (() -> Swift.Void))
+  public static func animate(duration: Foundation.TimeInterval, animations: (() -> Swift.Void), completion: (() -> Swift.Void)? = nil)
+}
+public enum CXError : Swift.Error {
+  case failedToInitialiseIndoorMap(message: Swift.String?)
+  case failedToInitializeAR(message: Swift.String?)
+  case timeout
+  case noInternetConnection
+  case failedToLocalize(message: Swift.String?)
+  case generic(error: any Swift.Error)
+}
+extension Common.CXError : Swift.CustomStringConvertible {
+  public var description: Swift.String {
+    get
+  }
+}
+public protocol IndoorMapObjectsBase : Common.IndoorMapBase {
+  var x: Swift.Float { get set }
+  var y: Swift.Float { get set }
+  var z: Swift.Float { get set }
+  var extensors: [Swift.String : Swift.String]? { get set }
+  var svg: Swift.String? { get set }
+}
+public struct Helpers {
+  public static func toRadians(degrees: Swift.Double) -> Swift.Double
+  public static func toDegrees(radians: Swift.Double) -> Swift.Double
+  public static func mergeTextWith(_ separator: Swift.String, texts: Swift.String?...) -> Swift.String
+  public static func mergeTextWith(_ separator: Swift.String, texts: [Swift.String?]) -> Swift.String
+  public static func convertAndGetPointIn3D(relativeTo realtivePoint: CoreFoundation.CGPoint, point: CoreFoundation.CGPoint, pxPerMeter: Swift.Double?) -> SceneKit.SCNVector3
+  public static func convertAndGetPositionIn2D(relativeTo relativePoint: CoreFoundation.CGPoint, position: SceneKit.SCNVector3, pxPerMeter: Swift.Double?) -> CoreFoundation.CGPoint
+}
+public struct ARMap {
+  public var fullName: Swift.String
+  public var timestamp: Swift.Double
+  public var displayName: Swift.String
+  public var anchors: [Common.ARAnchorItemData]
+  public var metaData: Common.ARMapMetadata
+  public init(fullName: Swift.String, timestamp: Swift.Double, displayName: Swift.String, anchors: [Common.ARAnchorItemData], metaData: Common.ARMapMetadata)
+}
+public enum LocalizationState {
+  case fetchingAnchors
+  case localizing
+  case localized
+  case finished
+  case error(error: Common.CXError)
+}
+extension UIKit.UIColor {
+  public static var indoorMapHighlightColor: UIKit.UIColor
+  public static var navPathStrokeColor: UIKit.UIColor?
+  public static var navInstructionsBackgroundColor: UIKit.UIColor?
+  public static var navigationDirectionTextColor: UIKit.UIColor?
+}
+public struct ARAnchorItemData {
+  public var id: Swift.String
+  public var currentPosition: CoreFoundation.CGPoint
+  public var originTransform: Common.Matrix4x4
+  public init(id: Swift.String, currentPosition: CoreFoundation.CGPoint, originTransform: Common.Matrix4x4)
+}
+public struct IndoorMapAmenity : Common.IndoorMapObjectsBase {
+  public var x: Swift.Float
+  public var y: Swift.Float
+  public var z: Swift.Float
+  public var extensors: [Swift.String : Swift.String]?
+  public var svg: Swift.String?
+  public var id: Foundation.NSNumber
+  public var name: Swift.String?
+}
+extension Common.NavigationDirections : Swift.Equatable {}
+extension Common.NavigationDirections : Swift.Hashable {}
