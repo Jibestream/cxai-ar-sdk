@@ -36,7 +36,7 @@ Pod::Spec.new do |spec|
   ]
 
   # Jibestream Subspec
-  s.subspec 'Jibestream' do |jibestream|
+  spec.subspec 'Jibestream' do |jibestream|
     jibestream.vendored_frameworks = [
       'Jibestream/JMapControllerKit.xcframework',
       'Jibestream/JMapCoreKit.xcframework',
@@ -46,7 +46,7 @@ Pod::Spec.new do |spec|
   end
 
   # Meridian Subspec
-  s.subspec 'Meridian' do |meridian|
+  spec.subspec 'Meridian' do |meridian|
     meridian.vendored_frameworks = [
       # Add meridian frameworks here
     ]
