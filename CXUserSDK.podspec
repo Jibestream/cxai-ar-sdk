@@ -26,18 +26,14 @@ Pod::Spec.new do |spec|
   spec.source       = { :path => '.' }
 
 
- # XCFrameworks
-  common_vendored_frameworks = [
-    'CXUserSDK.xcframework',
-    'Common.xcframework',
-    'DataSDK.xcframework',
-    'CXARLocalizationSDK.xcframework',
-    'CXJibestreamKit.xcframework'
-  ]
-
   # Jibestream Subspec
   spec.subspec 'Jibestream' do |jibestream|
-    jibestream.vendored_frameworks = common_vendored_frameworks + [
+    jibestream.vendored_frameworks = [
+      'CXUserSDK.xcframework',
+      'Common.xcframework',
+      'DataSDK.xcframework',
+      'CXARLocalizationSDK.xcframework',
+      'CXJibestreamKit.xcframework',
       'Jibestream/JMapControllerKit.xcframework',
       'Jibestream/JMapCoreKit.xcframework',
       'Jibestream/JMapNavigationKit.xcframework',
@@ -47,7 +43,12 @@ Pod::Spec.new do |spec|
 
   # Meridian Subspec
   spec.subspec 'Meridian' do |meridian|
-    meridian.vendored_frameworks = common_vendored_frameworks + [
+    meridian.vendored_frameworks = [
+      'CXUserSDK.xcframework',
+      'Common.xcframework',
+      'DataSDK.xcframework',
+      'CXARLocalizationSDK.xcframework',
+      # 'CXJibestreamKit.xcframework',
       # Add meridian frameworks here
     ]
   end
