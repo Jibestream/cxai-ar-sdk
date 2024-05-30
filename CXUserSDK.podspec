@@ -38,10 +38,10 @@ Pod::Spec.new do |spec|
   spec.subspec 'Jibestream' do |jibestream|
     jibestream.vendored_frameworks = common_vendored_frameworks + [
       'CXJibestreamKit.xcframework',
-      'Jibestream/JMapControllerKit.xcframework',
-      'Jibestream/JMapCoreKit.xcframework',
-      'Jibestream/JMapNavigationKit.xcframework',
-      'Jibestream/JMapRenderingKit.xcframework'
+      # 'Jibestream/JMapControllerKit.xcframework',
+      # 'Jibestream/JMapCoreKit.xcframework',
+      # 'Jibestream/JMapNavigationKit.xcframework',
+      # 'Jibestream/JMapRenderingKit.xcframework'
     ]
   end
 
