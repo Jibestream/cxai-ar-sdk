@@ -1,0 +1,11 @@
+framework module CXUserSDK {
+  umbrella header "CXUserSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module CXUserSDK.Swift {
+  header "CXUserSDK-Swift.h"
+  requires objc
+}
