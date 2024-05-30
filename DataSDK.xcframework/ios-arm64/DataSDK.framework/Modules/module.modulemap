@@ -1,0 +1,11 @@
+framework module DataSDK {
+  umbrella header "DataSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module DataSDK.Swift {
+  header "DataSDK-Swift.h"
+  requires objc
+}

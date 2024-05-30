@@ -1,0 +1,2236 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "JMapCoreKit",
+        "printedName": "JMapCoreKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "JMapControllerKit",
+        "printedName": "JMapControllerKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "SceneKit",
+        "printedName": "SceneKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "JMapManager",
+        "printedName": "JMapManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shouldFollowUser",
+            "printedName": "shouldFollowUser",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvp",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvp",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvg",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvg",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvs",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvs",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvM",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC16shouldFollowUserSbvM",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onDestinationSelected",
+            "printedName": "onDestinationSelected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Foundation.NSNumber) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Foundation.NSNumber) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NSNumber",
+                        "printedName": "Foundation.NSNumber",
+                        "usr": "c:objc(cs)NSNumber"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvp",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvp",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Foundation.NSNumber) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Foundation.NSNumber) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NSNumber",
+                            "printedName": "Foundation.NSNumber",
+                            "usr": "c:objc(cs)NSNumber"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvg",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvg",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Foundation.NSNumber) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Foundation.NSNumber) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NSNumber",
+                            "printedName": "Foundation.NSNumber",
+                            "usr": "c:objc(cs)NSNumber"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvs",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvs",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvM",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC21onDestinationSelectedySo8NSNumberCcSgvM",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onNavigationInstructionUpdated",
+            "printedName": "onNavigationInstructionUpdated",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Common.NavigationInstruction) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Common.NavigationInstruction) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NavigationInstruction",
+                        "printedName": "Common.NavigationInstruction",
+                        "usr": "s:6Common21NavigationInstructionV"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvp",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvp",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Common.NavigationInstruction) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Common.NavigationInstruction) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NavigationInstruction",
+                            "printedName": "Common.NavigationInstruction",
+                            "usr": "s:6Common21NavigationInstructionV"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvg",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvg",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Common.NavigationInstruction) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Common.NavigationInstruction) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "NavigationInstruction",
+                            "printedName": "Common.NavigationInstruction",
+                            "usr": "s:6Common21NavigationInstructionV"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvs",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvs",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvM",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC30onNavigationInstructionUpdatedy6Common0fG0VcSgvM",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onMapPanned",
+            "printedName": "onMapPanned",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvp",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvp",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvg",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvg",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvs",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvs",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvM",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC11onMapPannedyycSgvM",
+                "moduleName": "CXJibestreamKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(jMapConfig:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "JMapManager",
+                "printedName": "CXJibestreamKit.JMapManager",
+                "usr": "c:@M@CXJibestreamKit@objc(cs)JMapManager"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JMapConfig",
+                "printedName": "CXJibestreamKit.JMapConfig",
+                "usr": "s:15CXJibestreamKit10JMapConfigC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15CXJibestreamKit11JMapManagerC10jMapConfigAcA0cF0C_tcfc",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC10jMapConfigAcA0cF0C_tcfc",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "JMapManager",
+                "printedName": "CXJibestreamKit.JMapManager",
+                "usr": "c:@M@CXJibestreamKit@objc(cs)JMapManager"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CXJibestreamKit@objc(cs)JMapManager(im)init",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerCACycfc",
+            "moduleName": "CXJibestreamKit",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "initMap",
+            "printedName": "initMap(indoorMapInitialised:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Common.CXError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Common.CXError?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CXError",
+                        "printedName": "Common.CXError",
+                        "usr": "s:6Common7CXErrorO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC7initMap06indoorF11Initialisedyy6Common7CXErrorOSgc_tF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC7initMap06indoorF11Initialisedyy6Common7CXErrorOSgc_tF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "isMapInitialized",
+            "printedName": "isMapInitialized",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15CXJibestreamKit11JMapManagerC16isMapInitializedSbvp",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC16isMapInitializedSbvp",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CXJibestreamKit11JMapManagerC16isMapInitializedSbvg",
+                "mangledName": "$s15CXJibestreamKit11JMapManagerC16isMapInitializedSbvg",
+                "moduleName": "CXJibestreamKit",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "getFloors",
+            "printedName": "getFloors()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Common.IndoorMapFloor]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndoorMapFloor",
+                    "printedName": "Common.IndoorMapFloor",
+                    "usr": "s:6Common14IndoorMapFloorV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC9getFloorsSay6Common14IndoorMapFloorVGyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC9getFloorsSay6Common14IndoorMapFloorVGyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getDestinations",
+            "printedName": "getDestinations(relativeTo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Common.IndoorMapDestination]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndoorMapDestination",
+                    "printedName": "Common.IndoorMapDestination",
+                    "usr": "s:6Common20IndoorMapDestinationV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC15getDestinations10relativeToSay6Common20IndoorMapDestinationVGSo7CGPointV_tF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC15getDestinations10relativeToSay6Common20IndoorMapDestinationVGSo7CGPointV_tF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAmenities",
+            "printedName": "getAmenities(relativeTo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Common.IndoorMapAmenity]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndoorMapAmenity",
+                    "printedName": "Common.IndoorMapAmenity",
+                    "usr": "s:6Common16IndoorMapAmenityV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC12getAmenities10relativeToSay6Common16IndoorMapAmenityVGSo7CGPointV_tF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC12getAmenities10relativeToSay6Common16IndoorMapAmenityVGSo7CGPointV_tF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getCurrentFloor",
+            "printedName": "getCurrentFloor()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Common.IndoorMapFloor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndoorMapFloor",
+                    "printedName": "Common.IndoorMapFloor",
+                    "usr": "s:6Common14IndoorMapFloorV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC15getCurrentFloor6Common09IndoorMapG0VSgyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC15getCurrentFloor6Common09IndoorMapG0VSgyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getIndoorMapView",
+            "printedName": "getIndoorMapView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC16getIndoorMapViewSo6UIViewCyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC16getIndoorMapViewSo6UIViewCyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "updateUserPosition",
+            "printedName": "updateUserPosition(position:relativeTo:userHeading:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SCNVector3",
+                "printedName": "SceneKit.SCNVector3",
+                "usr": "c:@S@SCNVector3"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSNumber",
+                "printedName": "Foundation.NSNumber",
+                "usr": "c:objc(cs)NSNumber"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC18updateUserPosition8position10relativeTo11userHeadingySo10SCNVector3V_So7CGPointVSo8NSNumberCtF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC18updateUserPosition8position10relativeTo11userHeadingySo10SCNVector3V_So7CGPointVSo8NSNumberCtF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUserPosition",
+            "printedName": "getUserPosition()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreFoundation.CGPoint?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGPoint",
+                    "printedName": "CoreFoundation.CGPoint",
+                    "usr": "c:@S@CGPoint"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC15getUserPositionSo7CGPointVSgyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC15getUserPositionSo7CGPointVSgyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "jmapInitialized",
+            "printedName": "jmapInitialized(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "JMapCoreKit.JMapError?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "JMapError",
+                    "printedName": "JMapCoreKit.JMapError",
+                    "usr": "c:objc(cs)JMapError"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@CXJibestreamKit@objc(cs)JMapManager(im)jmapInitialized:",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC15jmapInitializedyySo0C5ErrorCSgF",
+            "moduleName": "CXJibestreamKit",
+            "objc_name": "jmapInitialized:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "canvas",
+            "printedName": "canvas(_:detectedTapOnElement:at:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JMapCanvas",
+                "printedName": "JMapRenderingKit.JMapCanvas",
+                "usr": "c:objc(cs)JMapCanvas"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@CXJibestreamKit@objc(cs)JMapManager(im)canvas:detectedTapOnElement:atPoint:",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC6canvas_20detectedTapOnElement2atySo0C6CanvasC_ypSgSo7CGPointVtF",
+            "moduleName": "CXJibestreamKit",
+            "objc_name": "canvas:detectedTapOnElement:atPoint:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "canvas",
+            "printedName": "canvas(_:scrollViewDidPan:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JMapCanvas",
+                "printedName": "JMapRenderingKit.JMapCanvas",
+                "usr": "c:objc(cs)JMapCanvas"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@CXJibestreamKit@objc(cs)JMapManager(im)canvas:scrollViewDidPan:",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC6canvas_16scrollViewDidPanySo0C6CanvasC_So7CGPointVtF",
+            "moduleName": "CXJibestreamKit",
+            "objc_name": "canvas:scrollViewDidPan:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAndDrawNavPath",
+            "printedName": "getAndDrawNavPath(to:relativeTo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[SceneKit.SCNVector3]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SCNVector3",
+                    "printedName": "SceneKit.SCNVector3",
+                    "usr": "c:@S@SCNVector3"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSNumber",
+                "printedName": "Foundation.NSNumber",
+                "usr": "c:objc(cs)NSNumber"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC17getAndDrawNavPath2to10relativeToSaySo10SCNVector3VGSo8NSNumberC_So7CGPointVtF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC17getAndDrawNavPath2to10relativeToSaySo10SCNVector3VGSo8NSNumberC_So7CGPointVtF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopNavigation",
+            "printedName": "stopNavigation()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC14stopNavigationyyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC14stopNavigationyyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cleanup",
+            "printedName": "cleanup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC7cleanupyyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC7cleanupyyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "focusUserPosition",
+            "printedName": "focusUserPosition()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CXJibestreamKit11JMapManagerC17focusUserPositionyyF",
+            "mangledName": "$s15CXJibestreamKit11JMapManagerC17focusUserPositionyyF",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CXJibestreamKit@objc(cs)JMapManager",
+        "mangledName": "$s15CXJibestreamKit11JMapManagerC",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "IndoorMappable",
+            "printedName": "IndoorMappable",
+            "usr": "s:6Common14IndoorMappableP",
+            "mangledName": "$s6Common14IndoorMappableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "JMapControllerKit",
+        "printedName": "JMapControllerKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "JMapControllerKit",
+        "printedName": "JMapControllerKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "SceneKit",
+        "printedName": "SceneKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "JMapNavigationKit",
+        "printedName": "JMapNavigationKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "SceneKit",
+        "printedName": "SceneKit",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "JMapConfig",
+        "printedName": "JMapConfig",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(host:clientID:clientSecret:customerID:venueID:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "JMapConfig",
+                "printedName": "CXJibestreamKit.JMapConfig",
+                "usr": "s:15CXJibestreamKit10JMapConfigC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15CXJibestreamKit10JMapConfigC4host8clientID0F6Secret08customerG005venueG0ACSS_S2SS2itcfc",
+            "mangledName": "$s15CXJibestreamKit10JMapConfigC4host8clientID0F6Secret08customerG005venueG0ACSS_S2SS2itcfc",
+            "moduleName": "CXJibestreamKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15CXJibestreamKit10JMapConfigC",
+        "mangledName": "$s15CXJibestreamKit10JMapConfigC",
+        "moduleName": "CXJibestreamKit",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 257,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 505,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "StringLiteral",
+      "offset": 199,
+      "length": 11,
+      "value": "\"CXJibestreamKit.JMapManager\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1420,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1459,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1499,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "Array",
+      "offset": 1829,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "Array",
+      "offset": 1989,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "Array",
+      "offset": 2098,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "Array",
+      "offset": 2358,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3097,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3744,
+      "length": 21,
+      "value": "\"Failed to init jMap\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3888,
+      "length": 7,
+      "value": "\"Units\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4153,
+      "length": 16,
+      "value": "\"NavInstruction\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "Array",
+      "offset": 5280,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager.swift",
+      "kind": "StringLiteral",
+      "offset": 5819,
+      "length": 24,
+      "value": "\"JMap cleanup completed\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 661,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 679,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 860,
+      "length": 3,
+      "value": "360"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 878,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1218,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1275,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2127,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2387,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2469,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3085,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3108,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3792,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/Jibestream+Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5555,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "Array",
+      "offset": 422,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "Dictionary",
+      "offset": 853,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2352,
+      "length": 2,
+      "value": "75"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2495,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2528,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 2578,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapManager+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2871,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 907,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 951,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 1008,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1361,
+      "length": 18,
+      "value": "\"layersOfInterest\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 1381,
+      "length": 9,
+      "value": "[\"Units\"]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1443,
+      "length": 13,
+      "value": "\"visualRange\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1458,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1513,
+      "length": 17,
+      "value": "\"visualLimitLeft\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1532,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1587,
+      "length": 18,
+      "value": "\"visualLimitRight\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1607,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1646,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 1810,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2297,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2445,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 3006,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 3651,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 3748,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3769,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3873,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3905,
+      "length": 22,
+      "value": "\"Head toward \""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3924,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3926,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3976,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4065,
+      "length": 6,
+      "value": "\"left\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4100,
+      "length": 8,
+      "value": "\"⬅️\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4130,
+      "length": 7,
+      "value": "\"right\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4166,
+      "length": 8,
+      "value": "\"➡️\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4196,
+      "length": 4,
+      "value": "\"up\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4229,
+      "length": 6,
+      "value": "\"🔼\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4257,
+      "length": 6,
+      "value": "\"down\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4292,
+      "length": 6,
+      "value": "\"🔽\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4320,
+      "length": 8,
+      "value": "\"arrive\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4357,
+      "length": 6,
+      "value": "\"🏁\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4385,
+      "length": 7,
+      "value": "\"uturn\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4421,
+      "length": 8,
+      "value": "\"↪️\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4482,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4519,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4596,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4649,
+      "length": 4,
+      "value": "\"up\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4665,
+      "length": 6,
+      "value": "\"down\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4730,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4790,
+      "length": 7,
+      "value": "\" and \""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5231,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5522,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6045,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6544,
+      "length": 13,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6554,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6556,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6650,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6671,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6928,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6965,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7004,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7045,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7138,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7183,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7253,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Dictionary",
+      "offset": 7531,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7923,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8038,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8079,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8125,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8131,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8141,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8153,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8243,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8249,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8259,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8271,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "Array",
+      "offset": 9548,
+      "length": 6,
+      "value": "[4, 1]"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9600,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9754,
+      "length": 11,
+      "value": "\"strokeEnd\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9806,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9841,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9846,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9996,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 10063,
+      "length": 11,
+      "value": "\"strokeEnd\""
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10459,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10520,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10591,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXJibestreamKit\/CXJibestreamKit\/Source\/JMapNavigationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10649,
+      "length": 1,
+      "value": "0"
+    }
+  ]
+}

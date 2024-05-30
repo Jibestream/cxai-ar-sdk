@@ -1,0 +1,163 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CXUserSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CXJibestreamKit",
+        "printedName": "CXJibestreamKit",
+        "declKind": "Import",
+        "moduleName": "CXUserSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CXARLocalizationSDK",
+        "printedName": "CXARLocalizationSDK",
+        "declKind": "Import",
+        "moduleName": "CXUserSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "CXUserSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UserSDK",
+        "printedName": "UserSDK",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(indoorMapKit:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UserSDK",
+                "printedName": "CXUserSDK.UserSDK",
+                "usr": "s:9CXUserSDK04UserB0C"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndoorMappable",
+                "printedName": "Common.IndoorMappable",
+                "usr": "s:6Common14IndoorMappableP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9CXUserSDK04UserB0C12indoorMapKitAC6Common14IndoorMappable_p_tcfc",
+            "mangledName": "$s9CXUserSDK04UserB0C12indoorMapKitAC6Common14IndoorMappable_p_tcfc",
+            "moduleName": "CXUserSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "startLocalization",
+            "printedName": "startLocalization(mapName:initiatorVC:onStateChange:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Common.LocalizationState) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LocalizationState",
+                    "printedName": "Common.LocalizationState",
+                    "usr": "s:6Common17LocalizationStateO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9CXUserSDK04UserB0C17startLocalization7mapName11initiatorVC13onStateChangeySS_So16UIViewControllerCy6Common0eK0OctF",
+            "mangledName": "$s9CXUserSDK04UserB0C17startLocalization7mapName11initiatorVC13onStateChangeySS_So16UIViewControllerCy6Common0eK0OctF",
+            "moduleName": "CXUserSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9CXUserSDK04UserB0C9configureyyFZ",
+            "mangledName": "$s9CXUserSDK04UserB0C9configureyyFZ",
+            "moduleName": "CXUserSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9CXUserSDK04UserB0C",
+        "mangledName": "$s9CXUserSDK04UserB0C",
+        "moduleName": "CXUserSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/CXUserSDK\/CXUserSDK\/Source\/UserSDK.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 23,
+      "value": "\"Starting localization\""
+    }
+  ]
+}
