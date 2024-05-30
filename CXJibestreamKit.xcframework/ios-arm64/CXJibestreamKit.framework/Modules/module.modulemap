@@ -1,6 +1,6 @@
 framework module CXJibestreamKit {
   umbrella header "CXJibestreamKit.h"
-  export *
 
+  export *
   module * { export * }
 }

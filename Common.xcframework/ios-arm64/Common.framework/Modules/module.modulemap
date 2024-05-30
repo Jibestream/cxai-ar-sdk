@@ -1,7 +1,7 @@
 framework module Common {
   umbrella header "Common.h"
-  export *
 
+  export *
   module * { export * }
 }
 

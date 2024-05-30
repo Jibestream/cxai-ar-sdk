@@ -1243,795 +1243,158 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapInHouseDataSource.swift",
-      "kind": "BooleanLiteral",
-      "offset": 318,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 197,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 247,
-      "length": 56,
-      "value": "\"\n - - - - - - - - - - OUTGOING - - - - - - - - - - \n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 331,
-      "length": 52,
-      "value": "\"\n - - - - - - - - - -  END - - - - - - - - - - \n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 448,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 571,
-      "length": 29,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 596,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 599,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 603,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 629,
-      "length": 30,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 655,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 658,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 684,
-      "length": 31,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 711,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 714,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 739,
-      "length": 30,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 765,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 768,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 795,
-      "length": 126,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 824,
-      "length": 1,
-      "value": "\" \n\n\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 850,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 858,
-      "length": 1,
-      "value": "\"?\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 867,
-      "length": 4,
-      "value": "\" HTTP\/1.1 \n\nHOST: \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 904,
-      "length": 1,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "Dictionary",
-      "offset": 985,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1017,
-      "length": 21,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1024,
-      "length": 1,
-      "value": "\": \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1034,
-      "length": 1,
-      "value": "\" \n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1124,
-      "length": 49,
-      "value": "\"\n \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1169,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1172,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 1331,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1381,
-      "length": 57,
-      "value": "\"\n - - - - - - - - - - INCOMMING - - - - - - - - - - \n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1466,
-      "length": 52,
-      "value": "\"\n - - - - - - - - - -  END - - - - - - - - - - \n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1646,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1673,
-      "length": 27,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1696,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1699,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1725,
-      "length": 28,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1749,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1752,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1779,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1851,
-      "length": 14,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1864,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1892,
-      "length": 6,
-      "value": "\"\n\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1994,
-      "length": 39,
-      "value": "\"HTTP \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2013,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2021,
-      "length": 1,
-      "value": "\"?\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2030,
-      "length": 1,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2119,
-      "length": 17,
-      "value": "\"Host: \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2133,
-      "length": 1,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "Dictionary",
-      "offset": 2212,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2244,
-      "length": 20,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2251,
-      "length": 1,
-      "value": "\": \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2261,
-      "length": 1,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2338,
-      "length": 50,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2382,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2385,
-      "length": 1,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2464,
-      "length": 37,
-      "value": "\"\nError in API RESPONSE: \""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2498,
-      "length": 1,
-      "value": "\"\n\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 172,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 196,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 265,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 172,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 196,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 265,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
-      "kind": "StringLiteral",
-      "offset": 529,
-      "length": 14,
-      "value": "\"Decode error\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
-      "kind": "StringLiteral",
-      "offset": 591,
-      "length": 17,
-      "value": "\"Session expired\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
-      "kind": "StringLiteral",
-      "offset": 645,
-      "length": 15,
-      "value": "\"Unknown error\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 211,
       "length": 10,
       "value": "\"BASE_URL\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 19,
       "value": "\"ONE_SIGNAL_APP_ID\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 445,
       "length": 22,
       "value": "\"Plist file not found\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 692,
       "length": 48,
       "value": "\"Root URL not set in plist for this environment\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 967,
       "length": 54,
       "value": "\"OneSignalAppId not set in plist for this environment\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 9,
       "value": "\"CXARSDK\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 488,
       "length": 20,
       "value": "\"GoogleService-Info\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 518,
       "length": 7,
       "value": "\"plist\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 639,
       "length": 27,
       "value": "\"Couldn't load config file\""
     },
     {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 714,
       "length": 9,
       "value": "\"CXARSDK\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 888,
-      "length": 12,
-      "value": "\"maps\/\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 899,
-      "length": 53,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 1045,
-      "length": 22,
-      "value": "\"No userMapping found\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1466,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 1597,
-      "length": 10,
-      "value": "\"metaData\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 1751,
-      "length": 9,
-      "value": "\"anchors\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 1952,
-      "length": 10,
-      "value": "\"fullName\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 1978,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2018,
-      "length": 13,
-      "value": "\"displayName\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2047,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2085,
-      "length": 11,
-      "value": "\"timestamp\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "FloatLiteral",
-      "offset": 2112,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2383,
-      "length": 17,
-      "value": "\"starting2DPoint\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2467,
-      "length": 3,
-      "value": "\"x\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2515,
-      "length": 3,
-      "value": "\"y\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2663,
-      "length": 21,
-      "value": "\"originRotationAngle\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "FloatLiteral",
-      "offset": 2699,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "FloatLiteral",
-      "offset": 2819,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "FloatLiteral",
-      "offset": 2835,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "FloatLiteral",
-      "offset": 2851,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 2988,
-      "length": 4,
-      "value": "\"id\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 3047,
-      "length": 17,
-      "value": "\"currentPosition\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 3121,
-      "length": 3,
-      "value": "\"x\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 3159,
-      "length": 3,
-      "value": "\"y\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
-      "kind": "StringLiteral",
-      "offset": 3203,
-      "length": 17,
-      "value": "\"originTransform\""
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/HTTPClient.swift",
-      "kind": "Array",
-      "offset": 871,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/HTTPClient.swift",
-      "kind": "BooleanLiteral",
-      "offset": 940,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/HTTPClient.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1305,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/HTTPClient.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1311,
-      "length": 3,
-      "value": "299"
-    },
-    {
-      "filePath": "\/Users\/muhammadnauman\/Desktop\/ARSDK-iOS\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/HTTPClient.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1549,
-      "length": 3,
-      "value": "401"
     }
   ]
 }
