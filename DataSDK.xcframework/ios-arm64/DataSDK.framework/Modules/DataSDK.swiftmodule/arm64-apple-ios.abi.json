@@ -1,0 +1,1400 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RequestMethod",
+        "printedName": "RequestMethod",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delete",
+            "printedName": "delete",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestMethod.Type) -> DataSDK.RequestMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestMethod",
+                    "printedName": "DataSDK.RequestMethod",
+                    "usr": "s:7DataSDK13RequestMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestMethod",
+                        "printedName": "DataSDK.RequestMethod",
+                        "usr": "s:7DataSDK13RequestMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK13RequestMethodO6deleteyA2CmF",
+            "mangledName": "$s7DataSDK13RequestMethodO6deleteyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "get",
+            "printedName": "get",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestMethod.Type) -> DataSDK.RequestMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestMethod",
+                    "printedName": "DataSDK.RequestMethod",
+                    "usr": "s:7DataSDK13RequestMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestMethod",
+                        "printedName": "DataSDK.RequestMethod",
+                        "usr": "s:7DataSDK13RequestMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK13RequestMethodO3getyA2CmF",
+            "mangledName": "$s7DataSDK13RequestMethodO3getyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "patch",
+            "printedName": "patch",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestMethod.Type) -> DataSDK.RequestMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestMethod",
+                    "printedName": "DataSDK.RequestMethod",
+                    "usr": "s:7DataSDK13RequestMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestMethod",
+                        "printedName": "DataSDK.RequestMethod",
+                        "usr": "s:7DataSDK13RequestMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK13RequestMethodO5patchyA2CmF",
+            "mangledName": "$s7DataSDK13RequestMethodO5patchyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "post",
+            "printedName": "post",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestMethod.Type) -> DataSDK.RequestMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestMethod",
+                    "printedName": "DataSDK.RequestMethod",
+                    "usr": "s:7DataSDK13RequestMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestMethod",
+                        "printedName": "DataSDK.RequestMethod",
+                        "usr": "s:7DataSDK13RequestMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK13RequestMethodO4postyA2CmF",
+            "mangledName": "$s7DataSDK13RequestMethodO4postyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "put",
+            "printedName": "put",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestMethod.Type) -> DataSDK.RequestMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestMethod",
+                    "printedName": "DataSDK.RequestMethod",
+                    "usr": "s:7DataSDK13RequestMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestMethod",
+                        "printedName": "DataSDK.RequestMethod",
+                        "usr": "s:7DataSDK13RequestMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK13RequestMethodO3putyA2CmF",
+            "mangledName": "$s7DataSDK13RequestMethodO3putyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DataSDK.RequestMethod?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestMethod",
+                    "printedName": "DataSDK.RequestMethod",
+                    "usr": "s:7DataSDK13RequestMethodO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7DataSDK13RequestMethodO8rawValueACSgSS_tcfc",
+            "mangledName": "$s7DataSDK13RequestMethodO8rawValueACSgSS_tcfc",
+            "moduleName": "DataSDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7DataSDK13RequestMethodO8rawValueSSvp",
+            "mangledName": "$s7DataSDK13RequestMethodO8rawValueSSvp",
+            "moduleName": "DataSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7DataSDK13RequestMethodO8rawValueSSvg",
+                "mangledName": "$s7DataSDK13RequestMethodO8rawValueSSvg",
+                "moduleName": "DataSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:7DataSDK13RequestMethodO",
+        "mangledName": "$s7DataSDK13RequestMethodO",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RequestError",
+        "printedName": "RequestError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "decode",
+            "printedName": "decode",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestError.Type) -> DataSDK.RequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestError",
+                        "printedName": "DataSDK.RequestError",
+                        "usr": "s:7DataSDK12RequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK12RequestErrorO6decodeyA2CmF",
+            "mangledName": "$s7DataSDK12RequestErrorO6decodeyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "invalidURL",
+            "printedName": "invalidURL",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestError.Type) -> DataSDK.RequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestError",
+                        "printedName": "DataSDK.RequestError",
+                        "usr": "s:7DataSDK12RequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK12RequestErrorO10invalidURLyA2CmF",
+            "mangledName": "$s7DataSDK12RequestErrorO10invalidURLyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "noResponse",
+            "printedName": "noResponse",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestError.Type) -> DataSDK.RequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestError",
+                        "printedName": "DataSDK.RequestError",
+                        "usr": "s:7DataSDK12RequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK12RequestErrorO10noResponseyA2CmF",
+            "mangledName": "$s7DataSDK12RequestErrorO10noResponseyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "unauthorized",
+            "printedName": "unauthorized",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestError.Type) -> DataSDK.RequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestError",
+                        "printedName": "DataSDK.RequestError",
+                        "usr": "s:7DataSDK12RequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK12RequestErrorO12unauthorizedyA2CmF",
+            "mangledName": "$s7DataSDK12RequestErrorO12unauthorizedyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "unexpectedStatusCode",
+            "printedName": "unexpectedStatusCode",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestError.Type) -> DataSDK.RequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestError",
+                        "printedName": "DataSDK.RequestError",
+                        "usr": "s:7DataSDK12RequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK12RequestErrorO20unexpectedStatusCodeyA2CmF",
+            "mangledName": "$s7DataSDK12RequestErrorO20unexpectedStatusCodeyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "unknown",
+            "printedName": "unknown",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataSDK.RequestError.Type) -> DataSDK.RequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataSDK.RequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RequestError",
+                        "printedName": "DataSDK.RequestError",
+                        "usr": "s:7DataSDK12RequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7DataSDK12RequestErrorO7unknownyA2CmF",
+            "mangledName": "$s7DataSDK12RequestErrorO7unknownyA2CmF",
+            "moduleName": "DataSDK"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RequestError",
+                "printedName": "DataSDK.RequestError",
+                "usr": "s:7DataSDK12RequestErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RequestError",
+                "printedName": "DataSDK.RequestError",
+                "usr": "s:7DataSDK12RequestErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7DataSDK12RequestErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s7DataSDK12RequestErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "DataSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7DataSDK12RequestErrorO9hashValueSivp",
+            "mangledName": "$s7DataSDK12RequestErrorO9hashValueSivp",
+            "moduleName": "DataSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7DataSDK12RequestErrorO9hashValueSivg",
+                "mangledName": "$s7DataSDK12RequestErrorO9hashValueSivg",
+                "moduleName": "DataSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7DataSDK12RequestErrorO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s7DataSDK12RequestErrorO4hash4intoys6HasherVz_tF",
+            "moduleName": "DataSDK",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:7DataSDK12RequestErrorO",
+        "mangledName": "$s7DataSDK12RequestErrorO",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Environment",
+        "printedName": "Environment",
+        "declKind": "Enum",
+        "usr": "s:7DataSDK11EnvironmentO",
+        "mangledName": "$s7DataSDK11EnvironmentO",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseDatabase",
+        "printedName": "FirebaseDatabase",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseCore",
+        "printedName": "FirebaseCore",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Endpoint",
+        "printedName": "Endpoint",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(url:method:header:body:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Endpoint",
+                "printedName": "DataSDK.Endpoint",
+                "usr": "s:7DataSDK8EndpointV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RequestMethod",
+                "printedName": "DataSDK.RequestMethod",
+                "usr": "s:7DataSDK13RequestMethodO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7DataSDK8EndpointV3url6method6header4bodyACSS_AA13RequestMethodOSDyS2SGSgAKtcfc",
+            "mangledName": "$s7DataSDK8EndpointV3url6method6header4bodyACSS_AA13RequestMethodOSDyS2SGSgAKtcfc",
+            "moduleName": "DataSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:7DataSDK8EndpointV",
+        "mangledName": "$s7DataSDK8EndpointV",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Networkable",
+        "printedName": "Networkable",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "sendRequest",
+            "printedName": "sendRequest(endpoint:responseModel:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<τ_1_0, DataSDK.RequestError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_1_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Endpoint",
+                "printedName": "DataSDK.Endpoint",
+                "usr": "s:7DataSDK8EndpointV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_1_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_1_0"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7DataSDK11NetworkableP11sendRequest8endpoint13responseModels6ResultOyqd__AA0E5ErrorOGAA8EndpointV_qd__mtYaSeRd__lF",
+            "mangledName": "$s7DataSDK11NetworkableP11sendRequest8endpoint13responseModels6ResultOyqd__AA0E5ErrorOGAA8EndpointV_qd__mtYaSeRd__lF",
+            "moduleName": "DataSDK",
+            "genericSig": "<τ_0_0, τ_1_0 where τ_0_0 : DataSDK.Networkable, τ_1_0 : Swift.Decodable>",
+            "sugared_genericSig": "<Self, T where Self : DataSDK.Networkable, T : Swift.Decodable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7DataSDK11NetworkableP",
+        "mangledName": "$s7DataSDK11NetworkableP",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Network",
+        "printedName": "Network",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Network",
+                "printedName": "DataSDK.Network",
+                "usr": "s:7DataSDK7NetworkC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7DataSDK7NetworkCACycfc",
+            "mangledName": "$s7DataSDK7NetworkCACycfc",
+            "moduleName": "DataSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "sendRequest",
+            "printedName": "sendRequest(endpoint:responseModel:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Result",
+                "printedName": "Swift.Result<τ_0_0, DataSDK.RequestError>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RequestError",
+                    "printedName": "DataSDK.RequestError",
+                    "usr": "s:7DataSDK12RequestErrorO"
+                  }
+                ],
+                "usr": "s:s6ResultO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Endpoint",
+                "printedName": "DataSDK.Endpoint",
+                "usr": "s:7DataSDK8EndpointV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7DataSDK7NetworkC11sendRequest8endpoint13responseModels6ResultOyxAA0E5ErrorOGAA8EndpointV_xmtYaSeRzlF",
+            "mangledName": "$s7DataSDK7NetworkC11sendRequest8endpoint13responseModels6ResultOyxAA0E5ErrorOGAA8EndpointV_xmtYaSeRzlF",
+            "moduleName": "DataSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7DataSDK7NetworkC",
+        "mangledName": "$s7DataSDK7NetworkC",
+        "moduleName": "DataSDK",
+        "intro_iOS": "15.0",
+        "declAttributes": [
+          "AccessControl",
+          "Available"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Networkable",
+            "printedName": "Networkable",
+            "usr": "s:7DataSDK11NetworkableP",
+            "mangledName": "$s7DataSDK11NetworkableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Common",
+        "printedName": "Common",
+        "declKind": "Import",
+        "moduleName": "DataSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ARMapData",
+        "printedName": "ARMapData",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ARMapData",
+                "printedName": "DataSDK.ARMapData",
+                "usr": "s:7DataSDK05ARMapA0V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7DataSDK05ARMapA0VACycfc",
+            "mangledName": "$s7DataSDK05ARMapA0VACycfc",
+            "moduleName": "DataSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getMap",
+            "printedName": "getMap(id:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Common.ARMap?, Swift.Error?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Common.ARMap?, Swift.Error?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Common.ARMap?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ARMap",
+                            "printedName": "Common.ARMap",
+                            "usr": "s:6Common5ARMapV"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Error?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7DataSDK05ARMapA0V6getMap2id10completionySS_y6Common0C0VSg_s5Error_pSgtctF",
+            "mangledName": "$s7DataSDK05ARMapA0V6getMap2id10completionySS_y6Common0C0VSg_s5Error_pSgtctF",
+            "moduleName": "DataSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7DataSDK05ARMapA0V9configureyyFZ",
+            "mangledName": "$s7DataSDK05ARMapA0V9configureyyFZ",
+            "moduleName": "DataSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:7DataSDK05ARMapA0V",
+        "mangledName": "$s7DataSDK05ARMapA0V",
+        "moduleName": "DataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 197,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1331,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 196,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 219,
+      "length": 7,
+      "value": "\"PATCH\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 243,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 265,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 196,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 219,
+      "length": 7,
+      "value": "\"PATCH\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 243,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 265,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 10,
+      "value": "\"BASE_URL\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "kind": "StringLiteral",
+      "offset": 258,
+      "length": 19,
+      "value": "\"ONE_SIGNAL_APP_ID\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "kind": "StringLiteral",
+      "offset": 445,
+      "length": 22,
+      "value": "\"Plist file not found\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "kind": "StringLiteral",
+      "offset": 692,
+      "length": 48,
+      "value": "\"Root URL not set in plist for this environment\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "kind": "StringLiteral",
+      "offset": 967,
+      "length": 54,
+      "value": "\"OneSignalAppId not set in plist for this environment\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 9,
+      "value": "\"CXARSDK\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 20,
+      "value": "\"GoogleService-Info\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "kind": "StringLiteral",
+      "offset": 518,
+      "length": 7,
+      "value": "\"plist\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "kind": "StringLiteral",
+      "offset": 639,
+      "length": 27,
+      "value": "\"Couldn't load config file\""
+    },
+    {
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "kind": "StringLiteral",
+      "offset": 714,
+      "length": 9,
+      "value": "\"CXARSDK\""
+    }
+  ]
+}
