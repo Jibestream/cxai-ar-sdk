@@ -10,8 +10,7 @@ Add the following lines into your Podfile.
 
 ```
 pod 'CXUserSDK/Jibestream', :git => 'https://github.com/Jibestream/cxai-ar-sdk.git'
-pod 'JMapiOSSDK', :git => 'https://github.com/Jibestream/JMap-iOS-SDK-Pod.git', :tag => '5.11.2'
-pod 'NavigationKit-iOS-Pod', :git => 'https://github.com/Jibestream/NavigationKit-iOS-Pod.git', :tag => '2.2.0'
+pod 'Jibestream', :git => 'https://github.com/Jibestream/cxai-ar-sdk.git'
 
 ```
 
