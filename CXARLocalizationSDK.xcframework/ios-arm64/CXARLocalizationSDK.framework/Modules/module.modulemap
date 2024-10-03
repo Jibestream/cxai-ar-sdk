@@ -1,0 +1,11 @@
+framework module CXARLocalizationSDK {
+  umbrella header "CXARLocalizationSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module CXARLocalizationSDK.Swift {
+  header "CXARLocalizationSDK-Swift.h"
+  requires objc
+}

@@ -1,0 +1,30 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name CXARLocalizationSDK
+import ARCoreCloudAnchors
+import ARKit
+@_exported import CXARLocalizationSDK
+import Combine
+import Common
+import CoreMotion
+import DataSDK
+import DeveloperToolsSupport
+import Foundation
+import ProgressHUD
+import SceneKit
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public class LocalizationSDK {
+  public init(indoorMap: any Common.IndoorMappable)
+  public static func configure()
+  public func startLocalizaition(mapName: Swift.String, initiatorVC: UIKit.UIViewController, onStateChange: @escaping (Common.LocalizationState) -> Swift.Void)
+  public func cleanup()
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class ARContentNode : SceneKit.SCNNode {
+  @objc deinit
+}
