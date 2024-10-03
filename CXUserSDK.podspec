@@ -2,13 +2,13 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CXUserSDK"
-  spec.version      = "1.0.5"
+  spec.version      = "1.0.6"
   spec.summary      = "CXUserSDK incorporated with Jibestream for ARExperience"
   spec.description  = 'This is the CXUserSDK incorporated with Jibestream 2D Maps for ARExperience'
   spec.homepage     = "https://cxapp.com/"
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Muhammad Nauman" => "naumanyousuf@folio3.com" }
-  spec.platform     = :ios, "16.0"
+  spec.platform     = :ios, "15.0"
   spec.source       = { :git => 'https://github.com/Jibestream/cxai-ar-sdk.git', :tag => spec.version.to_s}
 
  # XCFrameworks

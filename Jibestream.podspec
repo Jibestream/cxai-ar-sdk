@@ -36,7 +36,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-   spec.platform     = :ios, "16.0"
+   spec.platform     = :ios, "15.0"
 
   spec.source       = { :path => '.' }
 

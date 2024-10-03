@@ -201,7 +201,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "IndoorMappable",
-                "printedName": "Common.IndoorMappable",
+                "printedName": "any Common.IndoorMappable",
                 "usr": "s:6Common14IndoorMappableP"
               }
             ],
@@ -579,507 +579,563 @@
         "printedName": "Common",
         "declKind": "Import",
         "moduleName": "CXARLocalizationSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CXARLocalizationSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CXARLocalizationSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "CXARLocalizationSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "CXARLocalizationSDK"
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "Array",
       "offset": 556,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "Array",
       "offset": 603,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "StringLiteral",
       "offset": 662,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1027,
       "length": 2,
-      "value": "1"
+      "value": "-1"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "Array",
       "offset": 1164,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1218,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1257,
       "length": 2,
-      "value": "1"
+      "value": "-1"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/ViewModels\/ARLocalizationViewModel.swift",
       "kind": "StringLiteral",
       "offset": 8327,
       "length": 91,
       "value": "\"Navigation path not found to the selected destination. Please try some other destination!\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
       "kind": "Array",
       "offset": 298,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 326,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
       "kind": "StringLiteral",
       "offset": 150,
       "length": 29,
       "value": "\"CXARLocalizationSDK.DestinationListViewController\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/DestinationListViewController.swift",
       "kind": "StringLiteral",
       "offset": 150,
       "length": 29,
       "value": "\"CXARLocalizationSDK.DestinationListViewController\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 152,
       "length": 7,
       "value": "\"Alert\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 7,
       "value": "\"Error\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 4,
       "value": "\"OK\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 254,
       "length": 11,
       "value": "\"Try Again\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 296,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 331,
       "length": 10,
       "value": "\"Settings\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 432,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 451,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 475,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 495,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 516,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 432,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 451,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 475,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 495,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 516,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 432,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 451,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 475,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 495,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 516,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "Array",
       "offset": 341,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5945,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5962,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6000,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "FloatLiteral",
       "offset": 6216,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6726,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6743,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 6869,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "FloatLiteral",
       "offset": 6955,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "FloatLiteral",
       "offset": 7581,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 8002,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ViewControllers\/ARLocalizationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 8084,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 301,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 512,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 716,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 748,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "FloatLiteral",
       "offset": 783,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/NavigationInstructionsView.swift",
       "kind": "BooleanLiteral",
       "offset": 828,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/CloudAnchorLocalization.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/CloudAnchorLocalization.swift",
       "kind": "Array",
       "offset": 409,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ARContentNode.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/ARContentNode.swift",
       "kind": "StringLiteral",
       "offset": 145,
       "length": 13,
       "value": "\"CXARLocalizationSDK.ARContentNode\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 224,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 251,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 277,
       "length": 4,
       "value": "0.85"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 224,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 251,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 277,
       "length": 4,
       "value": "0.85"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 224,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 251,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "FloatLiteral",
       "offset": 277,
       "length": 4,
       "value": "0.85"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "BooleanLiteral",
       "offset": 744,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "BooleanLiteral",
       "offset": 790,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "BooleanLiteral",
       "offset": 978,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "IntegerLiteral",
       "offset": 1059,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "BooleanLiteral",
       "offset": 1261,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "BooleanLiteral",
       "offset": 1307,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "BooleanLiteral",
       "offset": 1336,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/CXARLocalizationSDK\/CXARLocalizationSDK\/Source\/PresentationLayer\/UI\/IndoorMapView.swift",
       "kind": "StringLiteral",
       "offset": 152,
       "length": 13,
       "value": "\"CXARLocalizationSDK.IndoorMapView\""
+    },
+    {
+      "filePath": "\/Users\/zayantharani\/Library\/Developer\/Xcode\/DerivedData\/CXDemoApp-gqdvqzcptaheimemymwcbzpapcky\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CXARLocalizationSDK\/IntermediateBuildFilesPath\/CXARLocalizationSDK.build\/Release-iphoneos\/CXARLocalizationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 753,
+      "length": 23,
+      "value": "\"icon_destination_node\""
+    },
+    {
+      "filePath": "\/Users\/zayantharani\/Library\/Developer\/Xcode\/DerivedData\/CXDemoApp-gqdvqzcptaheimemymwcbzpapcky\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CXARLocalizationSDK\/IntermediateBuildFilesPath\/CXARLocalizationSDK.build\/Release-iphoneos\/CXARLocalizationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 922,
+      "length": 21,
+      "value": "\"icon_location_arrow\""
+    },
+    {
+      "filePath": "\/Users\/zayantharani\/Library\/Developer\/Xcode\/DerivedData\/CXDemoApp-gqdvqzcptaheimemymwcbzpapcky\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CXARLocalizationSDK\/IntermediateBuildFilesPath\/CXARLocalizationSDK.build\/Release-iphoneos\/CXARLocalizationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1077,
+      "length": 15,
+      "value": "\"icon_nav_path\""
+    },
+    {
+      "filePath": "\/Users\/zayantharani\/Library\/Developer\/Xcode\/DerivedData\/CXDemoApp-gqdvqzcptaheimemymwcbzpapcky\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CXARLocalizationSDK\/IntermediateBuildFilesPath\/CXARLocalizationSDK.build\/Release-iphoneos\/CXARLocalizationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1232,
+      "length": 18,
+      "value": "\"icon_user_marker\""
     }
   ]
 }

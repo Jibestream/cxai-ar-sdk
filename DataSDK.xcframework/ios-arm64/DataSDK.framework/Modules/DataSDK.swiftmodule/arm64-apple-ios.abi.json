@@ -1154,7 +1154,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Common.ARMap?, Swift.Error?) -> ()",
+                "printedName": "(Common.ARMap?, (any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1164,7 +1164,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Tuple",
-                    "printedName": "(Common.ARMap?, Swift.Error?)",
+                    "printedName": "(Common.ARMap?, (any Swift.Error)?)",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -1183,12 +1183,12 @@
                       {
                         "kind": "TypeNominal",
                         "name": "Optional",
-                        "printedName": "Swift.Error?",
+                        "printedName": "(any Swift.Error)?",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "Error",
-                            "printedName": "Swift.Error",
+                            "printedName": "any Swift.Error",
                             "usr": "s:s5ErrorP"
                           }
                         ],
@@ -1243,154 +1243,154 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 197,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/NetworkLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 1331,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 172,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 196,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 265,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 172,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 196,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/RequestMethod.swift",
       "kind": "StringLiteral",
       "offset": 265,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 211,
       "length": 10,
       "value": "\"BASE_URL\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 19,
       "value": "\"ONE_SIGNAL_APP_ID\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 445,
       "length": 22,
       "value": "\"Plist file not found\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 692,
       "length": 48,
       "value": "\"Root URL not set in plist for this environment\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/HTTPClient\/Environment.swift",
       "kind": "StringLiteral",
       "offset": 967,
       "length": 54,
       "value": "\"OneSignalAppId not set in plist for this environment\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 9,
       "value": "\"CXARSDK\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 488,
       "length": 20,
       "value": "\"GoogleService-Info\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 518,
       "length": 7,
       "value": "\"plist\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 639,
       "length": 27,
       "value": "\"Couldn't load config file\""
     },
     {
-      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
+      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/DataSDK\/DataSDK\/Source\/ARMapData\/ARMapFirebaseDataSource.swift",
       "kind": "StringLiteral",
       "offset": 714,
       "length": 9,

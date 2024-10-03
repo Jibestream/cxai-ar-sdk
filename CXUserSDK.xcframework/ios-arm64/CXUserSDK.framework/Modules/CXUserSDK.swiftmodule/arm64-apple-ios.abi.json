@@ -54,7 +54,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "IndoorMappable",
-                "printedName": "Common.IndoorMappable",
+                "printedName": "any Common.IndoorMappable",
                 "usr": "s:6Common14IndoorMappableP"
               }
             ],

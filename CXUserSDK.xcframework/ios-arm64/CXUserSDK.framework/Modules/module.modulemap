@@ -1,7 +1,7 @@
 framework module CXUserSDK {
   umbrella header "CXUserSDK.h"
-
   export *
+
   module * { export * }
 }
 
