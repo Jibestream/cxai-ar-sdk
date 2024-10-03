@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CXUserSDK"
-  spec.version      = "1.0.6"
+  spec.version      = "1.0.7"
   spec.summary      = "CXUserSDK incorporated with Jibestream for ARExperience"
   spec.description  = 'This is the CXUserSDK incorporated with Jibestream 2D Maps for ARExperience'
   spec.homepage     = "https://cxapp.com/"
@@ -19,6 +19,25 @@ Pod::Spec.new do |spec|
     'CXARLocalizationSDK.xcframework',
     'CXJibestreamKit.xcframework'
   ]
+
+ # Jibestream Subspec
+  spec.subspec 'Jibestream' do |jibestream|
+    jibestream.vendored_frameworks = common_vendored_frameworks + [
+      'CXJibestreamKit.xcframework',
+      # 'Jibestream/JMapControllerKit.xcframework',
+      # 'Jibestream/JMapCoreKit.xcframework',
+      # 'Jibestream/JMapNavigationKit.xcframework',
+      # 'Jibestream/JMapRenderingKit.xcframework'
+    ]
+  end
+
+  # Meridian Subspec
+  spec.subspec 'Meridian' do |meridian|
+    meridian.vendored_frameworks = common_vendored_frameworks + [
+      # Add meridian frameworks here
+    ]
+  end
+  
 
   # Dependencies on other pods
   spec.dependency 'Firebase/Core'
