@@ -3601,7 +3601,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Decoder",
-                "printedName": "any Swift.Decoder",
+                "printedName": "Swift.Decoder",
                 "usr": "s:s7DecoderP"
               }
             ],
@@ -3626,7 +3626,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Encoder",
-                "printedName": "any Swift.Encoder",
+                "printedName": "Swift.Encoder",
                 "usr": "s:s7EncoderP"
               }
             ],
@@ -4569,12 +4569,12 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Common.CXError.Type) -> (any Swift.Error) -> Common.CXError",
+                "printedName": "(Common.CXError.Type) -> (Swift.Error) -> Common.CXError",
                 "children": [
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(any Swift.Error) -> Common.CXError",
+                    "printedName": "(Swift.Error) -> Common.CXError",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -4585,12 +4585,12 @@
                       {
                         "kind": "TypeNominal",
                         "name": "Tuple",
-                        "printedName": "(error: any Swift.Error)",
+                        "printedName": "(error: Swift.Error)",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "Error",
-                            "printedName": "any Swift.Error",
+                            "printedName": "Swift.Error",
                             "usr": "s:s5ErrorP"
                           }
                         ]
@@ -7780,9 +7780,7 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
-                "intro_iOS": "2.0",
                 "declAttributes": [
-                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -7909,9 +7907,7 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
-                "intro_iOS": "2.0",
                 "declAttributes": [
-                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -8038,9 +8034,7 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
-                "intro_iOS": "2.0",
                 "declAttributes": [
-                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -8167,9 +8161,7 @@
                 "moduleName": "Common",
                 "static": true,
                 "implicit": true,
-                "intro_iOS": "2.0",
                 "declAttributes": [
-                  "Available",
                   "Final"
                 ],
                 "isFromExtension": true,
@@ -8568,35 +8560,35 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/UIColor+Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 202,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 204,
       "length": 9,
       "value": "\"#FFB000\""
     },
     {
-      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 9,
       "value": "\"#2e7cbd\""
     },
     {
-      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 350,
       "length": 9,
       "value": "\"#2e2e2e\""
     },
     {
-      "filePath": "\/Users\/zayantharani\/Desktop\/Folio3\/iOSProjects\/PROJECTS\/Inpixon\/ASDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
+      "filePath": "\/Users\/travis\/build\/Jibestream\/ARSDK-iOS\/Modules\/Common\/Common\/Source\/Theme\/Theme.swift",
       "kind": "StringLiteral",
       "offset": 420,
       "length": 9,
